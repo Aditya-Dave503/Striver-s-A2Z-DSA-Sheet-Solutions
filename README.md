@@ -14,7 +14,7 @@ Whether you're preparing for **placements**, **internships**, or just want to bu
 This repo contains:
 
 - ✅ **Clean code** for every question in the sheet.
-- 🧠 **Problem links** (mostly from Leetcode, GFG, or CodeStudio).
+- 🧠 **Problem links** (mostly from Leetcode, GFG,Coding Ninjas or CodeStudio).
 - 📌 **My insights & observations** when something tricky shows up.
 
 Each section of the sheet (Basics, Arrays, Sorting, Recursion, DP, Trees, Graphs, and more) has its code and built with 💙.
