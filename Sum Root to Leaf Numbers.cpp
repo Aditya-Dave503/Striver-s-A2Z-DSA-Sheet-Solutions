@@ -17,15 +17,13 @@ class Solution {
         number=number*10+root->val;
         if(root->left==NULL && root->right==NULL){
             sum+=number;
-            number/=10;
             return;
         }
 
         if(root->left) dfs(root->left,sum,number);
         if(root->right) dfs(root->right,sum,number);
-        number/=10;
     }
-    
+
 public:
     int sumNumbers(TreeNode* root) {
         long long int sum=0,number=0;
